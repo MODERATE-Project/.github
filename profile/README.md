@@ -1,4 +1,4 @@
-# MODERATE Horizon Europe Project
+# MODERATE Project
 
 MODERATE aims to connect data providers with other building stakeholders by improving interoperability between datasets, by making use of data from different providers and aims to develop services based on data analytics that can transform raw data into knowledge for end-users.
 
@@ -15,3 +15,6 @@ A key aspect of the platform to increase trust for providers to share the data t
 MODERATE connects data providers with other stakeholders in the industry. On one hand owners of building data sets (Facility Managers, ESCOs, regional/national government agencies, …) can reliably share their data through the platform and integrate it with others for aggregated datasets.
 
 In a next step the data providers, together with other building stakeholders, can make use of the data analytical tools that will provided through to platform to gain meaningful insights from the data available through the MODERATE platform.
+
+| ![EU Flag](./eu-flag.png) | This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101069834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them. |
+|---|---|
