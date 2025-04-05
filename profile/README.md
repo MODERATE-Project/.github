@@ -29,5 +29,7 @@ MODERATE connects data providers with other stakeholders in the industry. On one
 
 In a next step the data providers, together with other building stakeholders, can make use of the data analytical tools that will provided through to platform to gain meaningful insights from the data available through the MODERATE platform.
 
+## Funding and Disclaimer
+
 | ![EU Flag](https://raw.githubusercontent.com/MODERATE-Project/.github/main/profile/eu-flag.png) | This project has received funding from the European Union’s Horizon Europe research and innovation programme under grant agreement No 101069834. Views and opinions expressed are however those of the author(s) only and do not necessarily reflect those of the European Union or CINEA. Neither the European Union nor the granting authority can be held responsible for them. |
 |---|---|
